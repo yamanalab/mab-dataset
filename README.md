@@ -2,6 +2,7 @@
 The MAB Dataset (Math Answering Behavior Dataset) can be used to analyze student states during math problem solving.  
 This dataset includes eye gaze and stroke data from 44 users.
 
+You can download the dataset at [Releases](https://github.com/yamanalab/mab-dataset/releases).
 
 ## Data
 All data is stored in the `data` folder.
